@@ -9,3 +9,4 @@ elasticsearch
 snakebite>=2.5.2
 mysql-connector-python
 psutil
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
